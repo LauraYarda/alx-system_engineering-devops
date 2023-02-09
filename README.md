@@ -1,2 +1,0 @@
-shell permissions
-shell permissions
