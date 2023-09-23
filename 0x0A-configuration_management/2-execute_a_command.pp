@@ -1,4 +1,4 @@
-# Filename: kill_process.pp
+# this code kills a process & works together with the killmenow file which has already been provided
 
 exec { 'killmenow':
   command     => '/usr/bin/pkill killmenow',
